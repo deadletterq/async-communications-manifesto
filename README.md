@@ -34,7 +34,7 @@ I was thinking, maybe we should do X instead of Y. WDYT?
 ```
 
 ## No Hello
-[Don't say just hello in chat](https://www.nohello.com/). Respect the reader — speak right away.
+[Don't say just hello in chat](https://nohello.net/). Respect the reader — speak right away.
 
 ## No tagging without a reason
 Do not tag people just because you mention them, do it only if they need to be a part of the conversation.
